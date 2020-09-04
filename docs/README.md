@@ -104,6 +104,17 @@ Our system should meet the following requirements:
     - MySQL, PostgreSQL, MongoDB
     - DB Connectivity : Entiry Core or Daper
 
+### Python
+
+* Backend
+    - Language: Python 3 or Python 2
+    - Framework: Flask
+* Frontend
+    - Language: Typescript or JavaScript
+    - Framework: (P)React, Angular, Vue
+* Database
+    - MySQL, PostgreSQL, MongoDB
+
 ## What are you suppose to submit ?
 
 - A design documentation satisfying both functional, non-functional and extended requirements with the data flow of various components involved in the form of markdown committed at [GitHub](https://github.com/)
