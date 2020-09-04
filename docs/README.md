@@ -96,13 +96,13 @@ Our system should meet the following requirements:
 
 * Backend
     - Language: C#
-    - Framework: dotnet core (version 2 or 3)
+    - Framework: dotnet core (version 2 or 3), Aspnet.core
 * Frontend
     - Language: Typescript or JavaScript
     - Framework: (P)React, Angular, Vue
 * Database
     - MS SQL, PostgreSQL, MongoDB
-    - DB Connectivity : Entiry Core or Daper
+    - DB Connectivity : Entiry Core or Daper(Do not use ADO.net)    
 
 ## What are you suppose to submit ?
 
