@@ -101,7 +101,7 @@ Our system should meet the following requirements:
     - Language: Typescript or JavaScript
     - Framework: (P)React, Angular, Vue
 * Database
-    - MySQL, PostgreSQL, MongoDB
+    - MS SQL, PostgreSQL, MongoDB
     - DB Connectivity : Entiry Core or Daper
 
 ## What are you suppose to submit ?
