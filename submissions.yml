@@ -1,0 +1,82 @@
+submissions:
+  - employee:
+      name: Lakshmikanth Rao Mohan Rao
+      githubUsername: lkanthrao
+    project:
+      appUrl: https://bookmarkaus-web-ui.herokuapp.com/
+      documentationUrl: https://github.com/Societe-Generale-Engineering-Stream/hackathon-offline-works-repo
+      monitoringUrl: https://metrics.librato.com/s/spaces/1224728
+      repositories:
+        - name: bookmarkaus-apis
+          githubUrl: https://github.com/Societe-Generale-Engineering-Stream/bookmarkaus-apis
+          openApiUrl: https://bookmarkaus-apis.herokuapp.com/swagger-ui.html
+        - name: bookmarkaus-web-ui
+          githubUrl: https://github.com/Societe-Generale-Engineering-Stream/bookmarkaus-web-ui
+  - employee:
+      name: Sivaganesh PANDITI
+      githubUsername: ganesh0479
+    project:
+      appUrl: http://20.40.46.23/
+      documentationUrl: https://ganesh0479.github.io/go-tiny-docs/#/
+      repositories:
+        - name: go-tiny
+          githubUrl: https://github.com/ganesh0479/go-tiny
+          openApiUrl: http://20.193.251.252/swagger-ui.html
+          travisUrl: https://travis-ci.org/github/ganesh0479/go-tiny
+          codacyUrl: https://app.codacy.com/manual/ganesh0479/go-tiny/dashboard
+          coverageUrl: https://codecov.io/github/ganesh0479/go-tiny
+        - name: go-tiny-app
+          githubUrl: https://github.com/ganesh0479/go-tiny-app
+  - employee:
+      name: Anand Karjagi
+      githubUsername: KarjagiAnand
+    project:
+      appUrl: https://myorgbookmarkurlapp-frontend.herokuapp.com
+      repositories:
+        - name: BookmarkUrlApplication-FrontEnd
+          githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
+          travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
+          coverageUrl: https://codecov.io/gh/AnandSKarjagi/RepoTravisCodeCov
+        - name: BookmarkUrlApp
+          githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApp
+          travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApp
+  - employee:
+      name: Supriyo Mukherjee
+      githubUsername: Supriyo-sm
+    project:
+      appUrl: http://sg-tiny-url-catalog.appspot.com/
+      documentationUrl: https://github.com/APPLICATION-DEV-ORG/org-tiny-url/blob/master/README.md
+      repositories:
+        - name: sg-tiny-url-catalog
+          githubUrl: https://github.com/APPLICATION-DEV-ORG/org-tiny-url.git
+          openApiUrl: http://sg-tiny-url-catalog.appspot.com/swagger-ui.html
+  - employee:
+      name: Purushottam Kumar
+      githubUsername: purukumar16
+    project:
+      appUrl: https://dashboard.heroku.com/apps/urlbook-ui
+      repositories:
+        - name: UrlBookApi
+          githubUrl: https://github.com/Sg-Engineering-Stream-Hackathon/UrlBookApi
+          openApiUrl: https://urlbook.herokuapp.com/
+          travisUrl: https://travis-ci.com/github/Sg-Engineering-Stream-Hackathon/UrlBookApi
+        - name: UrlBook-UI
+          githubUrl: https//github.com/Sg-Engineering-Stream-Hackathon/UrlBook-UI
+          travisUrl: https://travis-ci.com/github/Sg-Engineering-Stream-Hackathon/UrlBook-UI
+  - employee:
+      name: Surya Prakash
+      githubUsername: prakash1431
+    project:
+      appUrl: https://urlcatalogui.herokuapp.com/
+      documentationUrl: https://github.com/sprakash1431/UrlCatalog-FrontEnd/blob/master/README.md
+      repositories:
+        - name: urlcatalog-frontend
+          githubUrl: https://github.com/sprakash1431/UrlCatalog-FrontEnd/
+          travisUrl: https://travis-ci.com/github/sprakash1431/UrlCatalog-FrontEnd
+          codacyUrl: https://app.codacy.com/gh/sprakash1431/UrlCatalog-FrontEnd/dashboard
+          coverageUrl: https://codecov.io/gh/sprakash1431/UrlCatalog-FrontEnd
+        - name: UrlcatalogApi
+          githubUrl: https://github.com/sprakash1431/UrlcatalogApi
+          openApiUrl: https://urlcatalogapi.herokuapp.com/weatherforecast
+          travisUrl: https://travis-ci.com/github/sprakash1431/UrlcatalogApi
+          codacyUrl: https://app.codacy.com/gh/sprakash1431/UrlcatalogApi/dashboard
