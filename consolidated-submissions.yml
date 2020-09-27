@@ -1,0 +1,547 @@
+submissions:
+  - employee:
+      name: Lakshmikanth RAO MOHAN RAO
+      githubUsername: lkanthrao
+      project:
+        appUrl: https://bookmarkaus-web-ui.herokuapp.com/
+        documentationUrl: https://github.com/Societe-Generale-Engineering-Stream/hackathon-offline-works-repo
+        monitoringUrl: https://metrics.librato.com/s/spaces/1224728
+        repositories:
+          - name: bookmarkaus-apis
+            githubUrl: https://github.com/Societe-Generale-Engineering-Stream/bookmarkaus-apis
+            openApiUrl: https://bookmarkaus-apis.herokuapp.com/swagger-ui.html
+          - name: bookmarkaus-web-ui
+            githubUrl: https://github.com/Societe-Generale-Engineering-Stream/bookmarkaus-web-ui
+  - employee:
+      name: Sivaganesh PANDITI
+      githubUsername: ganesh0479
+      project:
+        appUrl: http://20.40.46.23/
+        documentationUrl: https://ganesh0479.github.io/go-tiny-docs/#/
+        repositories:
+          - name: go-tiny
+            githubUrl: https://github.com/ganesh0479/go-tiny
+            openApiUrl: http://20.193.251.252/swagger-ui.html
+            travisUrl: https://travis-ci.org/github/ganesh0479/go-tiny
+            codacyUrl: https://app.codacy.com/manual/ganesh0479/go-tiny/dashboard
+            coverageUrl: https://codecov.io/github/ganesh0479/go-tiny
+          - name: go-tiny-app
+            githubUrl: https://github.com/ganesh0479/go-tiny-app
+  - employee:
+      name: Anand KARJAGI
+      githubUsername: KarjagiAnand
+      project:
+        appUrl: https://myorgbookmarkurlapp-frontend.herokuapp.com
+        repositories:
+          - name: BookmarkUrlApplication-FrontEnd
+            githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
+            travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
+            coverageUrl: https://codecov.io/gh/AnandSKarjagi/RepoTravisCodeCov
+          - name: BookmarkUrlApp
+            githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApp
+            travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApp
+  - employee:
+      name: Supriyo MUKHERJEE
+      githubUsername: Supriyo-sm
+      project:
+        appUrl: http://sg-tiny-url-catalog.appspot.com/
+        documentationUrl: https://github.com/APPLICATION-DEV-ORG/org-tiny-url/blob/master/README.md
+        repositories:
+          - name: sg-tiny-url-catalog
+            githubUrl: https://github.com/APPLICATION-DEV-ORG/org-tiny-url.git
+            openApiUrl: http://sg-tiny-url-catalog.appspot.com/swagger-ui.html
+  - employee:
+      name: Purushottam KUMAR
+      githubUsername: purukumar16
+      project:
+        appUrl: https://dashboard.heroku.com/apps/urlbook-ui
+        repositories:
+          - name: UrlBookApi
+            githubUrl: https://github.com/Sg-Engineering-Stream-Hackathon/UrlBookApi
+            openApiUrl: https://urlbook.herokuapp.com/
+            travisUrl: https://travis-ci.com/github/Sg-Engineering-Stream-Hackathon/UrlBookApi
+          - name: UrlBook-UI
+            githubUrl: https//github.com/Sg-Engineering-Stream-Hackathon/UrlBook-UI
+            travisUrl: https://travis-ci.com/github/Sg-Engineering-Stream-Hackathon/UrlBook-UI
+  - employee:
+      name: Surya PRAKASH
+      githubUsername: prakash1431
+      project:
+        appUrl: https://urlcatalogui.herokuapp.com/
+        documentationUrl: https://github.com/sprakash1431/UrlCatalog-FrontEnd/blob/master/README.md
+        repositories:
+          - name: urlcatalog-frontend
+            githubUrl: https://github.com/sprakash1431/UrlCatalog-FrontEnd/
+            travisUrl: https://travis-ci.com/github/sprakash1431/UrlCatalog-FrontEnd
+            codacyUrl: https://app.codacy.com/gh/sprakash1431/UrlCatalog-FrontEnd/dashboard
+            coverageUrl: https://codecov.io/gh/sprakash1431/UrlCatalog-FrontEnd
+          - name: UrlcatalogApi
+            githubUrl: https://github.com/sprakash1431/UrlcatalogApi
+            openApiUrl: https://urlcatalogapi.herokuapp.com/weatherforecast
+            travisUrl: https://travis-ci.com/github/sprakash1431/UrlcatalogApi
+            codacyUrl: https://app.codacy.com/gh/sprakash1431/UrlcatalogApi/dashboard
+  - employee:
+      name: Jebish MOSES
+      githubUsername: mosesjebish
+      project:
+        appUrl: https://bookmark-manager-ui.web.app/
+        documentationUrl: https://mosesjebish-engineering-stream.github.io/mosesjebish.github.io/#/
+        repositories:
+          - name: service-discovery
+            githubUrl: https://github.com/mosesjebish-engineering-stream/service-discovery
+            circleUrl: https://app.circleci.com/pipelines/github/mosesjebish-engineering-stream/service-discovery
+          - name: config-server
+            githubUrl: https://github.com/mosesjebish-engineering-stream/config-server
+            circleUrl: https://app.circleci.com/pipelines/github/mosesjebish-engineering-stream/config-server
+          - name: bookmark-manager
+            githubUrl: https://github.com/mosesjebish-engineering-stream/bookmark-manager
+            openApiUrl: http://20.44.213.195:7443/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
+            circleUrl: https://app.circleci.com/pipelines/github/mosesjebish-engineering-stream/bookmark-manager
+            coverageUrl: https://codecov.io/gh/mosesjebish-engineering-stream/bookmark-manager
+            codacyUrl: https://app.codacy.com/gh/mosesjebish-engineering-stream/bookmark-manager/dashboard
+          - name: auth-server
+            githubUrl: https://github.com/mosesjebish-engineering-stream/auth-server
+            circleUrl: https://app.circleci.com/pipelines/github/mosesjebish-engineering-stream/auth-server
+          - name: react-bookmark-manager-ui
+            githubUrl: https://github.com/mosesjebish-engineering-stream/react-bookmark-manager-ui
+            circleUrl: https://app.circleci.com/pipelines/github/mosesjebish-engineering-stream/react-bookmark-manager-ui
+  - employee:
+      name: Sundareshwaran KANNAN
+      githubUsername: sundareshwaranKannan
+      project:
+        appUrl: https://sundareshwarankannan.github.io/bookmark-ui/
+        repositories:
+          - name: bookmark-ui
+            githubUrl: https://github.com/SundareshwaranKannan/bookmark-ui
+            travisUrl: https://travis-ci.com/github/SundareshwaranKannan/bookmark-ui
+            coverageUrl: https://coveralls.io/github/SundareshwaranKannan/bookmark-ui
+          - name: bookmark-url-shortener-service
+            githubUrl: https://github.com/SundareshwaranKannan/bookmark-url-shortener-service
+            travisUrl: https://travis-ci.com/github/SundareshwaranKannan/bookmark-url-shortener-service
+            coverageUrl: https://coveralls.io/github/SundareshwaranKannan/bookmark-url-shortener-service
+  - employee:
+      name: Saurabh KUMAR
+      githubUsername: saukum510
+      project:
+        appUrl: http://tinyurl-289406.appspot.com/
+        documentationUrl: https://github.com/saukum510/tinyurl/blob/develop/README.md
+        monitoringUrl: Google Analytics (private url)
+        repositories:
+          - name: tinyurl
+            githubUrl: https://github.com/saukum510/tinyurl
+            travisUrl: https://console.cloud.google.com/cloud-build/dashboard?project=tinyurl-289406
+            openApiUrl: http://tinyurl-289406.appspot.com/swagger-ui.html
+  - employee:
+      name: Shakti KUMAR
+      githubUsername: shakti-aryan
+      project:
+        appUrl: http://sg-bookmark.appspot.com/
+        documentationUrl: https://github.com/shakti-aryan/sg-bookmark/blob/master/README.md
+        monitoringUrl: https://console.cloud.google.com/home/dashboard?project=sg-bookmark
+        repositories:
+          - name: sg-bookmark
+            githubUrl: https://github.com/shakti-aryan/sg-bookmark
+            travisUrl: https://console.cloud.google.com/cloud-build/dashboard?project=sg-bookmark
+            openApiUrl: http://sg-bookmark.appspot.com/swagger-ui.html
+  - employee:
+      name: Prabal SRIVASTAVA
+      githubUsername: prabal-es
+      project:
+        appUrl: https://bookmark-9.herokuapp.com/
+        documentationUrl: https://github.com/prabal-es/bookmark-service/blob/master/README.md
+        repositories:
+          - name: bookmark-service
+            githubUrl: https://github.com/prabal-es/bookmark-service
+            openApiUrl: https://bookmark-service-9.herokuapp.com/api/v1/swagger-ui.html
+            circleUrl: https://app.circleci.com/pipelines/github/prabal-es/bookmark-service
+            codacyUrl: https://app.codacy.com/manual/prabal-es/bookmark-service/dashboard
+            coverageUrl: https://codecov.io/gh/prabal-es/bookmark-service
+          - name: bookmark-ui
+            githubUrl: https://github.com/prabal-es/bookmark-ui
+            circleUrl: https://app.circleci.com/pipelines/github/prabal-es/bookmark-ui
+            codacyUrl: https://app.codacy.com/manual/prabal-es/bookmark-ui/dashboard
+  - employee:
+      name: Shweta GUPTA
+      githubUsername: shweta1008
+      project:
+        appUrl: https://sg-bookmark-webapp.herokuapp.com/
+        repositories:
+          - name: sg-bookmark
+            githubUrl: https://github.com/shweta1008/sg_bookmark
+            openApiUrl: https://sg-bookmark.herokuapp.com/swagger-ui/index.html
+            circleCiUrl: https://app.circleci.com/pipelines/github/shweta1008/sg_bookmark
+            codacyUrl: https://app.codacy.com/manual/shwetagupta.cdac/sg_bookmark/dashboard
+          - name: sg-bookmark-webapp
+            githubUrl: https://github.com/shweta1008/sg-bookmark-webapp
+            circleUrl: https://app.circleci.com/pipelines/github/shweta1008/sg_bookmark
+            codacyUrl: https://app.codacy.com/manual/shwetagupta.cdac/sg-bookmark-webapp/dashboard
+          - name: sg-bookmark-webcomponent
+            githubUrl: https://github.com/shweta1008/sg-bookmark-webcomponent
+  - employee:
+      name: Kavana TADAGALALE
+      githubUsername: kavanat
+      project:
+        appUrl: https://bookmark-url-shortner-ui.herokuapp.com/
+        monitoringUrl: https://1a8d32c2fdff4c91a5d2950d2253c50b.eastus2.azure.elastic-cloud.com:9243
+        repositories:
+          - name: bookmark-url-shortner-ui
+            githubUrl: https://github.com/SG-GSC-Hackathon/bookmark-url-shortner-ui
+            circleUrl: https://app.circleci.com/pipelines/github/SG-GSC-Hackathon/bookmark-url-shortner-ui
+            codacyUrl: https://app.codacy.com/gh/SG-GSC-Hackathon
+          - name: bookmark-url-shortner
+            githubUrl: https://github.com/SG-GSC-Hackathon/bookmark-url-shortner
+            openApiUrl: https://bookmark-url-shortner.herokuapp.com/swagger-ui/
+            circleUrl: https://app.circleci.com/pipelines/github/SG-GSC-Hackathon/bookmark-url-shortner
+            codacyUrl: https://app.codacy.com/gh/SG-GSC-Hackathon
+  - employee:
+      name: Rhishikesh AKOLE
+      githubUsername: rakole
+      project:
+        appUrl: https://bbookmark-5da10.web.app/
+        documentationUrl: https://github.com/sg-hackathon2020/tinyurl-cards-api
+        repositories:
+          - name: tinyurl-cards-api
+            githubUrl: https://github.com/sg-hackathon2020/tinyurl-cards-api
+            openApiUrl: https://beyond-bookmarks-api.herokuapp.com/swagger-ui/index.html#/test-controller
+            circleUrl: https://app.circleci.com/pipelines/github/sg-hackathon2020/tinyurl-cards-api
+            codacyUrl: https://app.codacy.com/gh/sg-hackathon2020/tinyurl-cards-api/dashboard
+            coverageUrl: https://codecov.io/gh/sg-hackathon2020/tinyurl-cards-api
+          - name: org-bookmarks
+            githubUrl: https://github.com/sg-hackathon2020/org-bookmarks
+            circleUrl: https://app.circleci.com/pipelines/github/sg-hackathon2020/org-bookmarks
+  - employee:
+      name: Kamalpriya MUTHUKUMAR
+      githubUsername: Kamalpriya
+      project:
+        repositories:
+          - name: UrlProject
+            githubUrl: https://github.com/Kamalpriya/UrlProject
+  - employee:
+      name: Abhay SHUKLA
+      githubUsername: abhayshukla04
+      project:
+        appUrl: https://digital-organizations.github.io/digital-org.github.io/
+        documentationUrl: https://github.com/digital-organizations/digital-org.github.io
+        monitoringUrl: https://604d8e9e397a4a2eb81b1b2c5ee7f96c.eastus2.azure.elastic-cloud.com:9243/app/home#/tutorial/apm
+        repositories:
+          - name: digital-org
+            githubUrl: https://github.com/digital-organizations/digital-org
+            openApiUrl: https://digital-org.herokuapp.com/swagger-ui/#/
+            travisUrl: https://travis-ci.com/github/digital-organizations/digital-org
+            codacyUrl: https://app.codacy.com/manual/abhayshukla04/digital-org/dashboard
+            coverageUrl: https://codecov.io/gh/abhayshukla04/digital-org
+          - name: digital-org-ui
+            githubUrl: https://github.com/digital-organizations/digital-org-ui
+            travisUrl: https://travis-ci.com/github/digital-organizations/digital-org-ui
+            circleUrl: https://travis-ci.com/github/digital-organizations/digital-org-ui
+            codacyUrl: https://app.codacy.com/manual/abhayshukla04/digital-org-ui/dashboard
+            coverageUrl: https://codecov.io/gh/abhayshukla04/digital-org-ui
+  - employee:
+      name: Ashish RAJ
+      githubUsername: er-ashishraj
+      project:
+        appUrl: https://piggyurl.herokuapp.com/swagger-ui.html
+        documentationUrl: https://er-ashishraj.github.io/piggyurl/#/
+        repositories:
+          - name: piggyurl
+            githubUrl: https://github.com/er-ashishraj/piggyurl
+            openApiUrl: https://piggyurl.herokuapp.com/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/er-ashishraj/piggyurl
+            coverageUrl: https://codecov.io/gh/er-ashishraj/piggyurl
+            codacyUrl: https://sonarcloud.io/dashboard?id=er-ashishraj_piggyurl
+  - employee:
+      name: Anushree UPPOOR
+      githubUsername: anushree9497
+      project:
+        appUrl: https://sg-short-url.herokuapp.com/
+        repositories:
+          - name: url-shortening
+            githubUrl: https://github.com/Engineering-Stream-2020/url-shortening
+  - employee:
+      name: Sukeerti BOTU
+      githubUsername: sukeerthi-b
+      project:
+        repositories:
+          - name: bookmark
+            githubUrl: https://github.com/sukeerthi-b/bookmark.git
+  - employee:
+      name: Santosh SAHU
+      githubUsername: santoshk-design
+      project:
+        repositories:
+          - name: bookmarks-tiny-url-api
+            githubUrl: https://github.com/santoshk-design/bookmarks-tiny-url-api
+  - employee:
+      name: Nitin KUMAR
+      githubUsername: phoenixnitin
+      project:
+        appUrl: http://www.n4nit.in/
+        documentationUrl: https://sg-engr-stream.github.io/frontend-angular/
+        monitoringUrl: https://short-url-prod.herokuapp.com/dashboard
+        repositories:
+          - name: backend-flask
+            githubUrl: https://github.com/sg-engr-stream/backend-flask
+            openApiUrl: https://short-url-prod.herokuapp.com/api/docs/
+            travisUrl: https://travis-ci.com/github/sg-engr-stream/backend-flask
+            codacyUrl: https://app.codacy.com/gh/sg-engr-stream/backend-flask/dashboard
+            coverageUrl: https://codecov.io/gh/sg-engr-stream/backend-flask
+          - name: frontend-angular
+            githubUrl: https://github.com/sg-engr-stream/frontend-angular
+            circleUrl: https://travis-ci.com/github/sg-engr-stream/frontend-angular
+            codacyUrl: https://app.codacy.com/gh/sg-engr-stream/frontend-angular/dashboard
+            coverageUrl: https://codecov.io/gh/sg-engr-stream/frontend-angular
+  - employee:
+      name: Prabhu MURUGESAN
+      githubUsername: pmurugesan15
+      project:
+        appUrl: https://manage-bookmark-ui.herokuapp.com/
+        documentationUrl: https://github.com/agil-mugil/engineering-stream-documents
+        repositories:
+          - name: bookmark
+            githubUrl: https://github.com/agil-mugil/bookmark
+            openApiUrl: https://managebookmark.herokuapp.com/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/agil-mugil/bookmark
+            codacyUrl: https://app.codacy.com/gh/agil-mugil/bookmark/dashboard
+            coverageUrl: https://codecov.io/gh/agil-mugil/bookmark
+          - name: bookmark-ui
+            githubUrl: https://github.com/agil-mugil/bookmark-ui
+  - employee:
+      name: Pratik KUMAR1
+      githubUsername: dECRISES
+      project:
+        appUrl: https://github.com/dECRISES/bookmark-management-dashboard
+        documentationUrl: https://decrises.github.io/bookmark-management-service/#/
+        repositories:
+          - name: bookmark-management-dashboard
+            githubUrl: https://github.com/dECRISES/bookmark-management-dashboard
+            openApiUrl: https://localhost:9090/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/dECRISES/bookmark-management-dashboard/builds/184833106
+            codacyUrl: https://app.codacy.com/manual/dECRISES/bookmark-management-dashboard/dashboard
+            coverageUrl: https://codecov.io/gh/dECRISES/bookmark-management-dashboard
+          - name: bookmark-management-service
+            githubUrl: https://github.com/dECRISES/bookmark-management-service
+            travisUrl: https://travis-ci.com/github/dECRISES/bookmark-management-service/builds/185008341
+  - employee:
+      name: Rajkumar ANGARE
+      githubUsername: rajangare
+      project:
+        repositories:
+          - name: app-discovery-service
+            githubUrl: https://github.com/rajangare/app-discovery-service
+          - name: app-config-server
+            githubUrl: https://github.com/rajangare/app-config-server
+          - name: app-config-repo
+            githubUrl: https://github.com/rajangare/app-config-repo
+          - name: bookmark-services
+            githubUrl: https://github.com/rajangare/bookmark-services
+            openApiUrl: http://localhost:8090/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/rajangare/bookmark-services
+            codacyUrl: https://codecov.io/gh/rajangare/bookmark-services
+            coverageUrl: https://codecov.io/gh/rajangare/bookmark-services
+          - name: bookmark-card-ui
+            githubUrl: https://github.com/rajangare/bookmark-card-ui
+  - employee:
+      name: Rakesh VENKATARAMAN
+      githubUsername: rakesh8693
+    project:
+      appUrl: http://bma-env-1.eba-wgdegdsk.us-east-1.elasticbeanstalk.com/swagger-ui/index.html?configUrl=/BMA-docs/swagger-config
+      documentationUrl: https://rakesh8693.github.io/bma-docs/#/?id=bookmark-and-url-shortening-application
+      repositories:
+        - name: bma-app-frontend
+          githubUrl: https://github.com/rakesh8693/bma-app-frontend
+          travisUrl: https://travis-ci.com/github/rakesh8693/bma-app-frontend
+        - name: bma-app-backend
+          githubUrl: https://github.com/rakesh8693/bma-app-backend
+          openApiUrl: http://bma-env-1.eba-wgdegdsk.us-east-1.elasticbeanstalk.com/swagger-ui/index.html?configUrl=/BMA-docs/swagger-config
+          travisUrl: https://travis-ci.com/github/rakesh8693/bma-app-backend
+          codacyUrl: https://app.codacy.com/gh/rakesh8693/bma-app-backend/dashboard
+          coverageUrl: https://codecov.io/gh/rakesh8693/bma-app-backend
+  - employee:
+      name: Akshya CHETTIAR
+      githubUsername: AKSHYA1997
+      project:
+        appUrl: https://thoven-ui.herokuapp.com/login
+        documentationUrl: https://akshya-engineering-stream-2020.github.io/thoven-docsify/#/
+        repositories:
+          - name: thoven-api
+            githubUrl: https://github.com/akshya-engineering-stream-2020/thoven-api
+            openApiUrl: https://thoven-api.herokuapp.com/swagger-ui.html
+            travisUrl: https://travis-ci.org/github/akshya-engineering-stream-2020/thoven-api
+            codacyUrl: https://app.codacy.com/gh/akshya-engineering-stream-2020/thoven-api/dashboard
+            coverageUrl: https://codecov.io/gh/akshya-engineering-stream-2020/thoven-api
+          - name: thoven-ui
+            githubUrl: https://github.com/akshya-engineering-stream-2020/thoven-ui
+            travisUrl: https://travis-ci.org/github/akshya-engineering-stream-2020/thoven-ui
+            codacyUrl: https://app.codacy.com/gh/akshya-engineering-stream-2020/thoven-ui/dashboard
+            coverageUrl: https://codecov.io/gh/akshya-engineering-stream-2020/thoven-ui
+  - employee:
+      name: Amit NAIK
+      githubUsername: Amitpnk
+      project:
+        appUrl: https://bookmark-dashboard.web.app/
+        documentationUrl: https://es-hackathon.github.io/documentation/#/
+        monitoringUrl: https://bookmarkweb20200916110752.azurewebsites.net/healthcheck-ui
+        repositories:
+          - name: bookmark-dashboard-api
+            githubUrl: https://github.com/es-hackathon/bookmark-dashboard-api
+            openApiUrl: https://bookmarkwebapi20200916112033.azurewebsites.net/OpenAPI/index.html
+            actionsUrl: https://github.com/es-hackathon/bookmark-dashboard-api/actions?query=workflow%3A%22.NET+Core%22
+            codacyUrl: https://app.codacy.com/gh/es-hackathon/bookmark-dashboard-api/dashboard
+          - name: bookmark-dashboard-ui
+            githubUrl: https://github.com/es-hackathon/bookmark-dashboard-ui
+            circleUrl: https://app.circleci.com/pipelines/github/es-hackathon/bookmark-dashboard-ui
+            codacyUrl: https://app.codacy.com/gh/es-hackathon/bookmark-dashboard-ui/dashboard
+          - name: bookmark-dashboard-widget
+            githubUrl: https://github.com/es-hackathon/bookmark-dashboard-widget
+            circleUrl: https://app.circleci.com/pipelines/github/es-hackathon/bookmark-dashboard-widget
+            codacyUrl: https://app.codacy.com/gh/es-hackathon/bookmark-dashboard-widget/dashboard
+  - employee:
+      name: Pasala VAMSHI
+      githubUsername: pnvamshi
+      project:
+        appUrl: http://localhost:8080/
+        documentationUrl: https://github.com/Hackathon-Engineering-Stream/url-shortener-backend/blob/master/README.md
+        repositories:
+          - name: url-shortener-backend
+            githubUrl: https://github.com/Hackathon-Engineering-Stream/url-shortener-backend
+            openApiUrl: http://localhost:8080/swagger-ui.html#/
+  - employee:
+      name: Emmanuel XAVIER
+      githubUsername: emmanuelxavier040
+      project:
+        appUrl: https://bookyweb.herokuapp.com
+        documentationUrl: https://emmanuelxavier040.github.io/booky-pages/
+        repositories:
+          - name: booky-web
+            githubUrl: https://github.com/emmanuelxavier040/booky-web
+            openApiUrl: https://booky2020.herokuapp.com/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/emmanuelxavier040/booky-web
+          - name: booky-service
+            githubUrl: https://github.com/emmanuelxavier040/booky-service
+            travisUrl: https://travis-ci.com/github/emmanuelxavier040/booky-service
+  - employee:
+      name: Nupur CHATTERJEE
+      githubUsername: nupurc
+      project:
+        appUrl: https://cardlibstorage.z13.web.core.windows.net/
+        repositories:
+          - name: CardLibrary
+            githubUrl: https://github.com/mycardlib/cardlib
+            openApiUrl: https://cardlibraryweb20200918102133-apim.azure-api.net/
+            actionsUrl: https://github.com/nupurc/CardLibrary/blob/master/.github/workflows/master_cardlib.yml
+            codacyUrl: https://app.codacy.com/manual/nupurc/CardLibrary/dashboard
+            coverageUrl: https://codecov.io/gh/nupurc/CardLibrary
+  - employee:
+      name: Navin KUMAR
+      githubUsername: navinkumar0705
+      project:
+        documentationUrl: https://github.com/navinkumar0705/urlzipper/blob/master/README.md
+        repositories:
+          - name: urlzipper
+            githubUrl: https://github.com/navinkumar0705/urlzipper
+            openApiUrl: https://github.com/navinkumar0705/urlzipper/blob/master/swagger.json
+            travisUrl: https://travis-ci.com/github/navinkumar0705/urlzipper
+            coverageUrl: https://codecov.io/gh/navinkumar0705/urlzipper
+  - employee:
+      name: Avinasha VENKAPPA
+      githubUsername: Avinash1604
+      project:
+        appUrl: https://avinash1604.github.io/bookmarks/home
+        documentationUrl: https://github.com/Avinash1604/bookmarks/blob/master/README.md
+        repositories:
+          - name: bookmarks
+            githubUrl: https://github.com/Avinash1604/bookmarks
+            openApiUrl: https://bookmarks-tiny.herokuapp.com/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/Avinash1604/bookmarks
+            codacyUrl: https://app.codacy.com/manual/Avinash1604/bookmarks/dashboard
+            coverageUrl: https://coveralls.io/github/Avinash1604/bookmarks
+  - employee:
+      name: Sahil DIWAN
+      githubUsername: sahil-diwan
+      project:
+        appUrl: http://tinyurl-env.eba-dwqapphi.us-east-2.elasticbeanstalk.com/home
+        documentationUrl: https://sahil-diwan.github.io/engg-stream-dev-document/
+        repositories:
+          - name: be-stream-tiny-url
+            githubUrl: https://github.com/s-diwan/be-stream-tiny-url
+            openApiUrl: http://tinyurlserver-env.eba-nt8f26gy.us-east-2.elasticbeanstalk.com/swagger-ui.html
+            travisUrl: https://travis-ci.org/github/s-diwan/be-stream-tiny-url
+          - name: fe-stream-tiny-url
+            githubUrl: https://github.com/s-diwan/fe-stream-tiny-url
+            travisUrl: https://travis-ci.org/github/s-diwan/fe-stream-tiny-url
+  - employee:
+      name: Vibhu PANDEY
+      githubUsername: pandeyvibhu
+      project:
+        appUrl: http://dashbook-env.eba-kdtzaurv.ap-south-1.elasticbeanstalk.com/
+        documentationUrl: https://pandeyvibhu.github.io/socgen-engstream-dashbook-backend/
+        repositories:
+          - name: socgen-engstream-dashbook-backend
+            githubUrl: https://github.com/pandeyvibhu/socgen-engstream-dashbook-backend
+            travisUrl: https://travis-ci.org/github/pandeyvibhu/socgen-engstream-dashbook-backend
+          - name: socgen-eng-stream-dashbook-ui
+            githubUrl: https://github.com/pandeyvibhu/socgen-eng-stream-dashbook-ui/
+            travisUrl: https://travis-ci.org/github/pandeyvibhu/socgen-eng-stream-dashbook-ui
+  - employee:
+      name: Tejas OZARKAR
+      githubUsername: Tejas-Ozarkar
+      project:
+        appUrl: http://teensy-client.s3-website.ap-south-1.amazonaws.com
+        documentationUrl: https://github.com/tej-oz/teensy-client/blob/master/README.md
+        repositories:
+          - name: teensy-client
+            githubUrl: https://github.com/tej-oz/teensy-client
+            openApiUrl: http://teensyapi-env.eba-k2xfeapv.ap-south-1.elasticbeanstalk.com/swagger-ui.html
+            travisUrl: https://travis-ci.com/github/tej-oz/teensy-client
+          - name: teensy-server
+            githubUrl: https://github.com/tej-oz/teensy-server
+            travisUrl: https://travis-ci.com/github/tej-oz/teensy-server
+  - employee:
+      name: Dheeraj KUMAR
+      githubUsername: kdheeraz
+      project:
+        appUrl: http://localhost:8080/
+        repositories:
+          - name: shortyUrl
+            githubUrl: https://github.com/kdheeraz/shortyUrl
+            openApiUrl: http://localhost:8080/
+  - employee:
+      name: Prameet PRADHAN
+      githubUsername: prameetpradhan
+      project:
+        appUrl: http://localhost:4200
+        documentationUrl: https://github.com/Prameet-Organization/bookmark-shorturl-service/blob/master/README.md
+        repositories:
+          - name: bookmark-shorturl-client
+            githubUrl: https://github.com/Prameet-Organization/bookmark-shorturl-client
+            circleUrl: https://app.circleci.com/pipelines/github/Prameet-Organization/bookmark-shorturl-client
+            codacyUrl: https://app.codacy.com/gh/Prameet-Organization/bookmark-shorturl-client/dashboard
+          - name: bookmark-shorturl-service
+            githubUrl: https://github.com/Prameet-Organization/bookmark-shorturl-service
+            openApiUrl: http://localhost:8080/swagger-ui.html
+            circleUrl: https://app.circleci.com/pipelines/github/Prameet-Organization/bookmark-shorturl-service
+            codacyUrl: https://app.codacy.com/gh/Prameet-Organization/bookmark-shorturl-service/dashboard
+  - employee:
+    name: Soubhik BISWAS
+    githubUsername: soubhik93
+    project:
+      appUrl: https://bookmark-catalogue-web.herokuapp.com/
+      documentationUrl: https://enigineering-stream-hackathon.github.io/documentation/#/
+      repositories:
+        - name: user-management
+          githubUrl: https://github.com/Enigineering-Stream-Hackathon/user-management
+          openApiUrl: https://user-management-bs.herokuapp.com/swagger-ui/index.html?url=/v3/api-docs#/
+          circleUrl: https://app.circleci.com/pipelines/github/Enigineering-Stream-Hackathon/user-management
+          codacyUrl: https://app.codacy.com/gh/Enigineering-Stream-Hackathon/user-management/dashboard
+          coverageUrl: https://codecov.io/gh/Enigineering-Stream-Hackathon/user-management
+        - name: bookmark-catalogue
+          githubUrl: https://github.com/Enigineering-Stream-Hackathon/bookmark-catalogue
+          openApiUrl: https://bookmark-catalogue.herokuapp.com/swagger-ui/index.html?url=/v3/api-docs#/
+          circleUrl: https://app.circleci.com/pipelines/github/Enigineering-Stream-Hackathon/bookmark-catalogue
+          codacyUrl: https://app.codacy.com/gh/Enigineering-Stream-Hackathon/bookmark-catalogue/dashboard
+          coverageUrl: https://codecov.io/gh/Enigineering-Stream-Hackathon/bookmark-catalogue
+        - name: bookmark-catalogue-web
+          githubUrl: https://github.com/Enigineering-Stream-Hackathon/bookmark-catalogue-web
+          circleUrl: https://app.circleci.com/pipelines/github/Enigineering-Stream-Hackathon/bookmark-catalogue-web
+          codacyUrl: https://app.codacy.com/gh/Enigineering-Stream-Hackathon/bookmark-catalogue-web/dashboard
+          coverageUrl: https://codecov.io/gh/Enigineering-Stream-Hackathon/bookmark-catalogue-web
