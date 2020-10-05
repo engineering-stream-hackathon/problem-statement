@@ -13,7 +13,7 @@ submissions:
           - name: bookmarkaus-web-ui
             githubUrl: https://github.com/Societe-Generale-Engineering-Stream/bookmarkaus-web-ui
   - employee:
-      name: Sivaganesh PANDITI
+      name: PANDITI SIVAGANESH
       githubUsername: ganesh0479
       project:
         appUrl: http://20.40.46.23/
@@ -36,7 +36,7 @@ submissions:
           - name: BookmarkUrlApplication-FrontEnd
             githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
             travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
-            coverageUrl: https://codecov.io/gh/AnandSKarjagi/RepoTravisCodeCov
+            coverageUrl: https://codecov.io/gh/AnandSKarjagi/BookmarkUrlApplication-FrontEnd
           - name: BookmarkUrlApp
             githubUrl: https://github.com/AnandSKarjagi/BookmarkUrlApp
             travisUrl: https://travis-ci.com/github/AnandSKarjagi/BookmarkUrlApp
@@ -51,6 +51,20 @@ submissions:
             githubUrl: https://github.com/APPLICATION-DEV-ORG/org-tiny-url.git
             openApiUrl: http://sg-tiny-url-catalog.appspot.com/swagger-ui.html
   - employee:
+      name: Vinitha NAIR
+      githubUsername: VinithaVNair
+      project:
+        appUrl: http://52.226.94.104:4200
+        repositories:
+          - name: DigitalWorkSpace
+            openApiUrl1: http://52.152.190.48:8082/swagger/index.html
+            openApiUrl2: http://52.191.23.27:8083/swagger/index.html
+            openApiUrl3: http://52.226.49.255:8081/swagger/index.html
+            openApiUrl4: http://52.191.23.98:8084/swagger/index.html
+            githubUrl: https://github.com/VinithaVNair/DigitalWorkSpace
+            travisUrl: https://travis-ci.com/github/VinithaVNair/DigitalWorkSpace
+            codacyUrl: https://app.codacy.com/gh/VinithaVNair/DigitalWorkSpace/dashboard
+  - employee:
       name: Purushottam KUMAR
       githubUsername: purukumar16
       project:
@@ -58,7 +72,6 @@ submissions:
         repositories:
           - name: UrlBookApi
             githubUrl: https://github.com/Sg-Engineering-Stream-Hackathon/UrlBookApi
-            openApiUrl: https://urlbook.herokuapp.com/
             travisUrl: https://travis-ci.com/github/Sg-Engineering-Stream-Hackathon/UrlBookApi
           - name: UrlBook-UI
             githubUrl: https//github.com/Sg-Engineering-Stream-Hackathon/UrlBook-UI
@@ -67,7 +80,7 @@ submissions:
       name: Surya PRAKASH
       githubUsername: prakash1431
       project:
-        appUrl: https://urlcatalogui.herokuapp.com/
+        appUrl: http://urlbook-ui.herokuapp.com/
         documentationUrl: https://github.com/sprakash1431/UrlCatalog-FrontEnd/blob/master/README.md
         repositories:
           - name: urlcatalog-frontend
@@ -77,7 +90,7 @@ submissions:
             coverageUrl: https://codecov.io/gh/sprakash1431/UrlCatalog-FrontEnd
           - name: UrlcatalogApi
             githubUrl: https://github.com/sprakash1431/UrlcatalogApi
-            openApiUrl: https://urlcatalogapi.herokuapp.com/weatherforecast
+            openApiUrl: https://urlbook.herokuapp.com/api/v1/Profile/GetAllUsers
             travisUrl: https://travis-ci.com/github/sprakash1431/UrlcatalogApi
             codacyUrl: https://app.codacy.com/gh/sprakash1431/UrlcatalogApi/dashboard
   - employee:
@@ -427,9 +440,9 @@ submissions:
         repositories:
           - name: CardLibrary
             githubUrl: https://github.com/mycardlib/cardlib
-            openApiUrl: https://cardlibraryweb20200918102133-apim.azure-api.net/
-            actionsUrl: https://github.com/nupurc/CardLibrary/blob/master/.github/workflows/master_cardlib.yml
-            codacyUrl: https://app.codacy.com/manual/nupurc/CardLibrary/dashboard
+            openApiUrl: https://cardlibapi.azurewebsites.net/swagger/index.html
+            travisUrl: https://github.com/nupurc/CardLibrary/blob/master/.github/workflows/master_cardlib.yml
+            codacyUrl: https://app.codacy.com/gh/nupurc/CardLibrary/dashboard
             coverageUrl: https://codecov.io/gh/nupurc/CardLibrary
   - employee:
       name: Navin KUMAR
